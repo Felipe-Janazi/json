@@ -2,10 +2,10 @@
   "name": "simple-calculator",
   "version": "1.0.0",
   "description": "Demo web app running on Amazon ECS pulling images from ECR",
-  "main": "node.js",
+  "main": "package.js",
   "scripts": {
     "build": "echo 'No build step required'",
-    "start": "node node.js"
+    "start": "node package.json"
   },
   "author": "buraku",
   "license": "MIT-0",
