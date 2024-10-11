@@ -5,7 +5,7 @@
   "main": "package.js",
   "scripts": {
     "build": "echo 'No build step required'",
-    "start": "node package.json"
+    "start": "node app.js"
   },
   "author": "buraku",
   "license": "MIT-0",
